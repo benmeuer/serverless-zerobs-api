@@ -1,0 +1,6 @@
+{
+  "body": "{\"title\":\"updated_title\",\"content\":\"updated_content\",\"attachment\":\"updated.jpg\"}",
+  "pathParameters": {
+    "id": "bc0deca0-3707-11eb-aa81-398344356d07"
+  }
+}
